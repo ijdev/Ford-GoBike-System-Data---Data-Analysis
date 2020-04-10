@@ -1,5 +1,4 @@
 # Ford GoBike System Data
-## by (Ibrahem aljenaidel)
 
 
 ## Dataset
